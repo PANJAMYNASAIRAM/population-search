@@ -40,7 +40,7 @@ REST API – Countries data API
 
 ##Live Demo
 
-https://PANJAMYNASAIRAM.github.io/population-serach   
+https://PANJAMYNASAIRAM.github.io/population-search 
 
 
 ##How It Works
